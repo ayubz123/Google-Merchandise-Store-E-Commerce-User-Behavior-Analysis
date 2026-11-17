@@ -15,12 +15,12 @@ The analysis covers three months of Google Analytics 4 sample data, from Novembe
 ## Dashboard Pages
 
 **1. Overview**
-
 - Key Performance Indicators (KPIs)
 - E-commerce Purchase Funnel
 - Revenue by Country and Month
 - First Visits Over Time
 - Revenue by Operating System
+![Overview Dashboard](1-Overview.png)
 
 **2. User Behavior**
 
@@ -29,6 +29,7 @@ The analysis covers three months of Google Analytics 4 sample data, from Novembe
 - Funnel Performance by Category
 - Device-Based Purchasing Analysis
 - Business Insights and Recommendations
+![User Behavior Dashboard](2-User Behavior.png)
 
 ## Key Business Insights
 
