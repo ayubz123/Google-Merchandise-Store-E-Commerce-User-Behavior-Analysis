@@ -29,7 +29,7 @@ The analysis covers three months of Google Analytics 4 sample data, from Novembe
 - Funnel Performance by Category
 - Device-Based Purchasing Analysis
 - Business Insights and Recommendations
-![User Behavior Dashboard](2-User Behavior.png)
+![User Behavior Dashboard](2-User%20Behavior.png)
 
 ## Key Business Insights
 
